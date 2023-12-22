@@ -1,0 +1,70 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: skyblue;
+    padding: 0px;
+    margin: 0px;
+}
+
+header ul{
+    list-style-type:none;
+    padding: 0px;
+    margin: 0px;
+    background-color: navy;
+
+}
+
+header li a{
+    font-size: 40px;
+    padding:10px;
+    padding:16px 15px;
+    color:rosybrown;
+    text-decoration: none;
+    text-align: center;
+    display:block;
+}
+
+header li{
+    display:inline-block;
+}
+
+header li a:hover {
+background-color: greenyellow;
+}
+
+
+
+#div1 li{
+color:darkmagenta;
+font-style:italic;
+font-size: 30px;
+text-decoration: none;
+}
+
+#div1 li a:hover{
+    background-color: antiquewhite;
+}
+
+#images #img{
+    margin: auto;
+    /* align-items:center; */
+
+}
+
+.labels{
+    text-align: center;
+    text-shadow: 0em;
+    color: darkred;
+    text-decoration-style: solid;
+    font-size: 40px;
+
+
+}
+
+
+
+    
+    
+

@@ -1,0 +1,66 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color:grey;
+    padding:0px;
+    margin:0px;
+
+}
+
+header ul{
+    list-style: none;
+    margin:0%;
+    padding: 0%;
+    background-color: palevioletred;
+}
+
+header li{
+    display:inline-block;
+
+}
+
+header li a{
+    font-size: 30px;
+    text-decoration:none;
+    color: rgb(231,39,183);
+    padding: 16px 15px;
+
+    text-align: center;
+    display:block;
+
+}
+header li a:hover{
+    background-color: black;
+}
+ 
+
+
+#div1 a{
+    text-decoration: none;
+    color:blueviolet;
+font-style: oblique;
+font-size: larger;
+}
+
+#images img{
+    
+    display: block;
+    width: 350px;
+    height: 250px;
+    margin:auto;
+}
+    
+
+
+
+
+.labels{
+    text-align: center;
+    text-shadow:0em;
+    color:red;
+    text-decoration-style: solid;
+    font-size: large;
+
+}
